@@ -1,0 +1,17 @@
+C:\Users\wasee\Downloads\Zoom\bin\Debug\net8.0-windows\Zoom.exe
+C:\Users\wasee\Downloads\Zoom\bin\Debug\net8.0-windows\Zoom.deps.json
+C:\Users\wasee\Downloads\Zoom\bin\Debug\net8.0-windows\Zoom.runtimeconfig.json
+C:\Users\wasee\Downloads\Zoom\bin\Debug\net8.0-windows\Zoom.dll
+C:\Users\wasee\Downloads\Zoom\bin\Debug\net8.0-windows\Zoom.pdb
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.Form1.resources
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.Properties.Resources.resources
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.csproj.GenerateResource.cache
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.AssemblyInfoInputs.cache
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.AssemblyInfo.cs
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.csproj.CoreCompileInputs.cache
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.dll
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\refint\Zoom.dll
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.pdb
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\Zoom.genruntimeconfig.cache
+C:\Users\wasee\Downloads\Zoom\obj\Debug\net8.0-windows\ref\Zoom.dll
